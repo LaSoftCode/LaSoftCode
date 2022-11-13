@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning about Software Project Managment 
 - 🌱 I’m currently learning how Git and GitHub works
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me sofiab.arreola@gmail.com
 
 <!---
 LaSoftCode/LaSoftCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
